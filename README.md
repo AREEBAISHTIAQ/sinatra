@@ -1,1 +1,1 @@
-This is my project sinatra from the odin project curriculum.
+This is my project sinatra from The odin project curriculum.
